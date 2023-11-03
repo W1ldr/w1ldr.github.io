@@ -6,10 +6,10 @@
     <description>Recent content in Categories on w1ldr</description>
     <image>
       <title>w1ldr</title>
-      <url>https://w1ldr.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://w1ldr.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://w1ldr.github.io/papermod-cover.png</url>
+      <link>https://w1ldr.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://w1ldr.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://w1ldr.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

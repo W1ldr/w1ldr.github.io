@@ -6,10 +6,20 @@
     <description>Recent content in Tags on w1ldr</description>
     <image>
       <title>w1ldr</title>
-      <url>https://w1ldr.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://w1ldr.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://w1ldr.github.io/papermod-cover.png</url>
+      <link>https://w1ldr.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://w1ldr.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 03 Nov 2023 14:47:22 +0100</lastBuildDate><atom:link href="https://w1ldr.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>start_here</title>
+      <link>https://w1ldr.github.io/tags/start_here/</link>
+      <pubDate>Fri, 03 Nov 2023 14:47:22 +0100</pubDate>
+      
+      <guid>https://w1ldr.github.io/tags/start_here/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
