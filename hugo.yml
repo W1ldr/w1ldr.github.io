@@ -1,0 +1,8 @@
+baseURL: 'https://example.org/'
+languageCode: 'en-us'
+title: 'w1ldr'
+theme: "PaperMod"
+
+#module:
+#  imports:
+#    - path: git@github.com:adityatelange/hugo-PaperMod.git
