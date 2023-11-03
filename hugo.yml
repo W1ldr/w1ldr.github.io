@@ -5,7 +5,7 @@ theme: "PaperMod"
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
-buildDrafts: false
+buildDrafts: true
 buildFuture: false
 buildExpired: false
 enableEmoji: true
@@ -64,6 +64,7 @@ params:
   ShowCodeCopyButtons: true
   ShowRssButtonInSectionTermList: true
   ShowToc: true
+  hideFooter: true
   # comments: false
   images: ["papermod-cover.png"]
 
@@ -85,7 +86,7 @@ params:
       url: "https://www.linkedin.com/in/wilder-ribeiro/"
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/W1ldr/w1ldr.github.io/blob/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
