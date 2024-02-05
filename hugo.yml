@@ -54,7 +54,7 @@ params:
   author: W1ldr
   DateFormat: "January 2, 2006"
   defaultTheme: auto
-  disableThemeToggle: false
+  disableThemeToggle: true
   ShowShareButtons: false
   ShowReadingTime: true
   # disableSpecial1stPost: true
